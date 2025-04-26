@@ -1,0 +1,11 @@
+asgiref==3.8.1
+dill==0.3.9
+Django==5.1.4
+isort==5.13.2
+mccabe==0.7.0
+pillow==11.1.0
+platformdirs==4.3.6
+psycopg2==2.9.10
+psycopg2-binary==2.9.10
+sqlparse==0.5.3
+tomlkit==0.13.2
